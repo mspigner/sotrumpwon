@@ -1,0 +1,102 @@
+/* ==========================================================================
+   Global Overrides
+  ========================================================================== */
+* {
+  box-sizing: border-box;
+}
+
+.clearfix:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+html {
+  font-size: 16px;
+}
+
+/*font-family: 'Scope One', serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Francois One', sans-serif;*/
+/* ==========================================================================
+   Author's custom styles
+  ========================================================================== */
+
+/* Global
+   ================================================================ */
+.content {
+  width: 30%;
+  margin: 10% 35%;
+}
+
+h1 {
+  margin: 10% 0 0 0;
+  width: 100%;
+  font-size: 3rem;
+  font-family: 'Francois One', sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+h2 {
+  width: 100%;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 100;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.8rem;
+  font-weight: 100;
+  margin: 20% 0 0 0;
+  text-align: center;
+}
+.contact_form {
+  width: 60%;
+  margin: 2% 20%;
+  visibility: visible;
+  opacity: 1;
+  position: absolute;
+  z-index: 0;
+  top: 10%;
+  border: 1px solid white;
+  padding: 2% 5%;
+  background-color: #F5F4F3;
+  -webkit-box-shadow: 12px 14px 14px -6px rgba(100,100,100,0.8);
+   -moz-box-shadow: 12px 14px 14px -6px rgba(100,100,100,0.8);
+        box-shadow: 12px 14px 14px -6px rgba(100,100,100,0.8);
+
+/* Layout
+   ================================================================ */
+
+
+
+/* Headings
+   ================================================================ */
+
+
+
+/* Text Styles
+   ================================================================ */
+
+
+
+/* Header
+   ================================================================ */
+
+
+
+/* Footer
+   ================================================================ */
+
+
+
+/* Navigation
+   ================================================================ */
+
+
+
+/* Buttons
+   ================================================================ */
