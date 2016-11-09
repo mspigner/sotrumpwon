@@ -53,6 +53,12 @@ p {
   margin: 20% 0 0 0;
   text-align: center;
 }
+iframe {
+  width: 80%;
+  text-align: center;
+  margin: 2% 10%;
+}
+
 .contact_form {
   width: 60%;
   margin: 2% 20%;
