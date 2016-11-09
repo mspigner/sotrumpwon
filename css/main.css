@@ -25,8 +25,8 @@ font-family: 'Francois One', sans-serif;*/
 /* Global
    ================================================================ */
 .content {
-  width: 30%;
-  margin: 10% 35%;
+  width: 60%;
+  margin: 10% 20%;
 }
 
 h1 {
@@ -67,7 +67,7 @@ p {
   -webkit-box-shadow: 12px 14px 14px -6px rgba(100,100,100,0.8);
    -moz-box-shadow: 12px 14px 14px -6px rgba(100,100,100,0.8);
         box-shadow: 12px 14px 14px -6px rgba(100,100,100,0.8);
-
+}
 /* Layout
    ================================================================ */
 
